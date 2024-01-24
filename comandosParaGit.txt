@@ -1,0 +1,49 @@
+Sistema de Control de versiones
+
+"git bash"
+
+git clone ¨Direccion¨ 
+"Realiza una copia exacta de un repositorios en la computadora local "
+
+git init - "Configura un directorio localpara inicia el CVS sobre los archivos del mismo"
+
+git remote add origin "htt://github.com/<user>/<Proyecto>.git" - Establecer la direccion a donde se va a subir el codigo
+
+git add < archivo > agrega a un archivo en estado modified a estado staged
+
+git add . agraga todos los archivos 
+
+git commit -m Etiqueta con una descripcion los archivos modificados y mantenerlos almacenados localmente.
+
+git push origin main- Realiza el commit subiendo los cambios fisicamente al servidor 
+
+fit pull - Realiza una actualizacion desde el servidor a la computadora local con la ultima version de los archivos 
+
+git status - muesta las modificaciones realizadas en un archivo
+
+git rm -r --cached "Nombre de la carpeta" para eliminar una carpeta del repositorio y no localmente
+(Ejecutar el commit y despues el push para hace las modificaciones)
+Comandos git para branch
+
+git branch - para ver en que branch estas trabajando
+
+git branch <nombre del branch> crear un nuevo branch y checkout para cambiar al nuevo branch
+
+git checkout -b <branch> bajar un branch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+

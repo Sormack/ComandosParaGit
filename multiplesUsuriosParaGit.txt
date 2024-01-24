@@ -1,0 +1,9 @@
+git config --list "Muestra la configuracion de variables de git"
+
+Para una configuracion de respaldo global de git para todos los directorios
+git config --global user.name "usuario de git"
+git config --global user.email "YOUR_EMAIL"
+
+Para una configuracion de respaldor unica de git para un solo directorio
+git config user.name "usuario de git" 
+git config user.email "YOUR_EMAIL"

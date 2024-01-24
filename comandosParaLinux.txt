@@ -1,0 +1,30 @@
+Un directorio es lo mismo que una carpeta
+
+Los espacios en terminal se hacen con "\"
+
+clear - limpia la terminal
+
+pwd - imprime la ruta donde me encuentro
+ayuda a saber donde me encuentro
+
+ls - listar muesta todos los archivos de la carpeta
+
+cd - cambiar de directorio
+solo sirve para entrar en carpeta 
+cd "nombre de la carpeta"
+
+cd .. - con esto me regreso al directorio anterior 
+
+mkdir "Nombre de la carpeta"- crear un directorio
+
+rmdir - elimina un directorio
+
+touch "nombre del archivo.extencion"- para crear archivos
+
+nano - editor de texto en terminal 
+
+cat "Nombre del archivo" --Para ver elcontenido de un arcchivo
+
+nano -------
+ctrl + s --para guardar
+ctrl + x --para salir
